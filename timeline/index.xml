@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on Danzasegreta</title>
+        <link>https://danzasegreta.com/timeline/</link>
+        <description>Recent content in Timelines on Danzasegreta</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://danzasegreta.com/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Danzasegreta 002 - POSTPONED TO JUNE 10th</title>
+            <link>https://danzasegreta.com/timeline/002/</link>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://danzasegreta.com/timeline/002/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Danzasegreta 003</title>
+            <link>https://danzasegreta.com/timeline/003/</link>
+            <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://danzasegreta.com/timeline/003/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Danzasegreta 001</title>
+            <link>https://danzasegreta.com/timeline/001/</link>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://danzasegreta.com/timeline/001/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
