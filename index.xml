@@ -18,5 +18,23 @@
             <content type="html"><![CDATA[]]></content>
         </item>
         
+        <item>
+            <title>ABOUT</title>
+            <link>https://danzasegreta.com/about/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>https://danzasegreta.com/about/</guid>
+            <description>Danzasegreta, literally &amp;ldquo;Secretdance&amp;rdquo; in Italian, has a goal.
+To do one thing and do it well: music events.
+The pandemic has worsened everyone&amp;rsquo;s mental health, especially young people&amp;rsquo;s and those who work in the music and entertainment industry. The economic damage in the industry has been devastating. The previous organizational model, hierarchical and vertical, has not held up.
+Thankfully, our past, post-pandemic attempts at organizing music events have been limited by these two factors.</description>
+            <content type="html"><![CDATA[<p>Danzasegreta, literally &ldquo;Secretdance&rdquo; in Italian, has a goal.</p>
+<p>To do one thing and do it well: music events.</p>
+<p>The pandemic has worsened everyone&rsquo;s mental health, especially young people&rsquo;s and those who work in the music and entertainment industry. The economic damage in the industry has been devastating. The previous organizational model, hierarchical and vertical, has not held up.</p>
+<p>Thankfully, our past, post-pandemic attempts at organizing music events have been limited by these two factors. Danzasegreta has no masters. Danzasegreta was created to organize musical events with innovative, horizontal and productive planning techniques, inspired by new, remote work practices that put each collaborator&rsquo;s work under the main spotlight.</p>
+<p>Dance was born as a ritual, it is in our nature. It has always gathered and harmonized together those who take part in it. Danzasegreta synchronizes artists, musicians, DJs, songwriters, light and sound technicians, videomakers, photographers and every dancer, maximizing the creativity of those who participate.</p>
+]]></content>
+        </item>
+        
     </channel>
 </rss>
